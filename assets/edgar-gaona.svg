@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
+<title id="title">Edgar Gaona · Ingeniería de sistemas y dirección de producto</title>
+<defs><clipPath id="plot"><path d="M690 0h510v300H690z"/></clipPath></defs>
+<rect width="1200" height="300" fill="#112e2b"/>
+<g clip-path="url(#plot)" fill="none" stroke="#69a089" stroke-width="1.5"><path d="M 540 -18 C 690 42 511 120 679 161 S 810 268 734 314"/>
+<path d="M 550 -18 C 698 42 523 120 689 161 S 818 268 746 314"/>
+<path d="M 560 -18 C 706 42 535 120 699 161 S 826 268 758 314"/>
+<path d="M 570 -18 C 714 42 547 120 709 161 S 834 268 770 314"/>
+<path d="M 580 -18 C 722 42 559 120 719 161 S 842 268 782 314"/>
+<path d="M 590 -18 C 730 42 571 120 729 161 S 850 268 794 314"/>
+<path d="M 600 -18 C 738 42 583 120 739 161 S 858 268 806 314"/>
+<path d="M 610 -18 C 746 42 595 120 749 161 S 866 268 818 314"/>
+<path d="M 620 -18 C 754 42 607 120 759 161 S 874 268 830 314"/>
+<path d="M 630 -18 C 762 42 619 120 769 161 S 882 268 842 314"/>
+<path d="M 640 -18 C 770 42 631 120 779 161 S 890 268 854 314"/>
+<path d="M 650 -18 C 778 42 643 120 789 161 S 898 268 866 314"/>
+<path d="M 660 -18 C 786 42 655 120 799 161 S 906 268 878 314"/>
+<path d="M 670 -18 C 794 42 667 120 809 161 S 914 268 890 314"/>
+<path d="M 680 -18 C 802 42 679 120 819 161 S 922 268 902 314"/>
+<path d="M 690 -18 C 810 42 691 120 829 161 S 930 268 914 314"/>
+<path d="M 700 -18 C 818 42 703 120 839 161 S 938 268 926 314"/>
+<path d="M 710 -18 C 826 42 715 120 849 161 S 946 268 938 314"/>
+<path d="M 720 -18 C 834 42 727 120 859 161 S 954 268 950 314"/>
+<path d="M 730 -18 C 842 42 739 120 869 161 S 962 268 962 314"/>
+<path d="M 740 -18 C 850 42 751 120 879 161 S 970 268 974 314"/>
+<path d="M 750 -18 C 858 42 763 120 889 161 S 978 268 986 314"/>
+<path d="M 760 -18 C 866 42 775 120 899 161 S 986 268 998 314"/>
+<path d="M 770 -18 C 874 42 787 120 909 161 S 994 268 1010 314"/>
+<path d="M 780 -18 C 882 42 799 120 919 161 S 1002 268 1022 314"/>
+<path d="M 790 -18 C 890 42 811 120 929 161 S 1010 268 1034 314"/>
+<path d="M 800 -18 C 898 42 823 120 939 161 S 1018 268 1046 314"/>
+<path d="M 810 -18 C 906 42 835 120 949 161 S 1026 268 1058 314"/>
+<path d="M 820 -18 C 914 42 847 120 959 161 S 1034 268 1070 314"/>
+<path d="M 830 -18 C 922 42 859 120 969 161 S 1042 268 1082 314"/>
+<path d="M 840 -18 C 930 42 871 120 979 161 S 1050 268 1094 314"/>
+<path d="M 850 -18 C 938 42 883 120 989 161 S 1058 268 1106 314"/>
+<path d="M 860 -18 C 946 42 895 120 999 161 S 1066 268 1118 314"/>
+<path d="M 870 -18 C 954 42 907 120 1009 161 S 1074 268 1130 314"/>
+<path d="M 880 -18 C 962 42 919 120 1019 161 S 1082 268 1142 314"/></g>
+<g fill="#f6f1de" font-family="Georgia,serif"><text x="47" y="182" font-size="104" letter-spacing="-5">Edgar Gaona</text></g>
+<g font-family="Arial,Helvetica,sans-serif"><text x="52" y="70" font-size="19" font-weight="700" letter-spacing="3" fill="#cce883">INGENIERO EN SISTEMAS</text><text x="52" y="238" font-size="25" fill="#dbebe0">Director de Transformación Digital en Certiffy</text></g>
+<path d="M860 255l69-97 74 21 83-115" fill="none" stroke="#deee97" stroke-width="3" stroke-dasharray="5 6"/><g fill="#edfaac" stroke="#112e2b" stroke-width="3"><circle cx="860" cy="255" r="7"/><circle cx="929" cy="158" r="7"/><circle cx="1003" cy="179" r="7"/><circle cx="1086" cy="64" r="9"/></g></svg>
