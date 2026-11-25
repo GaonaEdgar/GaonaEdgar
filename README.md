@@ -12,7 +12,7 @@ Desarrollo invitaciones digitales que acompañan al invitado hasta el día del e
 
 ### Certiffy · Trazabilidad agroalimentaria
 
-En Certiffy dirijo el desarrollo de software para seguir el origen y el recorrido de productos agroalimentarios. En apicultura, por ejemplo, trabajamos para que quien recibe un lote de miel pueda rastrearlo hasta su cosecha.
+En Certiffy dirijo el desarrollo de software para seguir el origen y el recorrido de productos agroalimentarios. 
 
 ### Una muestra de código
 
